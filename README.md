@@ -26,8 +26,9 @@ To deploy updates manually:
 npx wrangler pages deploy . --project-name=heartcall --branch=main
 ```
 
-### GitHub Repository
-- **Source Code:** [https://github.com/hephzibah204/heartcall](https://github.com/hephzibah204/heartcall)
+### GitHub Repository & GitHub Pages
+- **Repository:** [https://github.com/hephzibah204/heartcall](https://github.com/hephzibah204/heartcall)
+- **GitHub Pages:** [https://hephzibah204.github.io/heartcall/](https://hephzibah204.github.io/heartcall/)
 
 ---
 
